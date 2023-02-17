@@ -27,7 +27,7 @@
 
 ## Ferramentas utilizadas
 
-<a href="https://pt-br.reactjs.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/94543490/219813606-50843b58-8bc3-4b54-befd-4c002ded863d.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactrouter.com/en/main" target="_blank"> <img src="https://user-images.githubusercontent.com/94543490/219813871-2a725fde-a73c-4151-b409-b5bed9006625.svg" alt="reactRouterDOM" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/94543490/219814128-31b3422d-f12e-4d3b-9d60-cd3ce6047880.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://pt-br.reactjs.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/94543490/219813606-50843b58-8bc3-4b54-befd-4c002ded863d.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactrouter.com/en/main" target="_blank"> <img src="https://user-images.githubusercontent.com/94543490/219813871-2a725fde-a73c-4151-b409-b5bed9006625.svg" alt="reactRouterDOM" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/94543490/219814128-31b3422d-f12e-4d3b-9d60-cd3ce6047880.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://sass-lang.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/94543490/219817509-decc2361-f0e1-445f-af72-40fc89590097.svg" alt="sass" width="40" height="40"/> </a>
 
 ###
 
