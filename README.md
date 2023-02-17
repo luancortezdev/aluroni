@@ -1,46 +1,47 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![logo do aluroni](https://user-images.githubusercontent.com/94543490/219792230-d8769aed-a67c-48f0-aae1-50294d6dc0d8.svg)
 
-## Available Scripts
+<hr>
 
-In the project directory, you can run:
+<p align="initial">
+<img src="https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen" />
+</p>
 
-### `npm start`
+## Descrição do projeto
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p align="justify">
+ O Aluroni é um sistema de cardápio digital.
+</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Funcionalidades
 
-### `npm test`
+:heavy_check_mark: `Funcionalidade 1:` Buscar um prato específico digitando o seu nome no input de busca.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+:heavy_check_mark: `Funcionalidade 2:` Filtrar os pratos de acordo com os tipos: massa, carne, combo ou vegano.
 
-### `npm run build`
+:heavy_check_mark: `Funcionalidade 3:` Ordenar os pratos por: porção, preço ou quantidade de pessoas. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+:heavy_check_mark: `Funcionalidade 4:` Ver detalhes dos pratos que são recomendações da página inicial ou da página cardápio.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Gravação de tela de 17-02-2023 19 24 50](https://user-images.githubusercontent.com/94543490/219812448-de3b12c1-4da9-4ac1-b3b2-0e28920c6eda.gif)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Ferramentas utilizadas
 
-### `npm run eject`
+<a href="https://pt-br.reactjs.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/94543490/219813606-50843b58-8bc3-4b54-befd-4c002ded863d.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactrouter.com/en/main" target="_blank"> <img src="https://user-images.githubusercontent.com/94543490/219813871-2a725fde-a73c-4151-b409-b5bed9006625.svg" alt="reactRouterDOM" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/94543490/219814128-31b3422d-f12e-4d3b-9d60-cd3ce6047880.svg" alt="firebase" width="40" height="40"/> </a>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+###
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Acesso ao projeto
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Você pode [acessar o código fonte do projeto](https://github.com/luancortezdev/aluroni) ou [baixá-lo](https://github.com/luancortezdev/aluroni/archive/refs/heads/master.zip).
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Abrir e rodar o projeto
 
-## Learn More
+- Após baixar o projeto, você deve instalar as dependências com o seu gerencidador de pacotes de preferência;
+- Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo);
+- Se decidir utilizar o npm basta rodar o comando `npm install` ou `npm i`, mas caso queira utilizar o yarn terá que rodar o comando `yarn add` ou `yarn`;
+- Aguarde as dependências do projeto serem instaladas, isso pode levar alguns segundos;
+- Em seguida digite o comando `npm run start` ou `yarn start` no seu terminal e abra [http://localhost:3000](http://localhost:3000) para vê-lo no seu navegador.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Desenvolvedor
+[<img src="https://github.com/luancortezdev.png" width=115><br><sub>Luan Cortez</sub>](https://github.com/luancortezdev)
