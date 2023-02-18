@@ -33,7 +33,7 @@
 
 ## Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto](https://github.com/luancortezdev/aluroni) ou [baixá-lo](https://github.com/luancortezdev/aluroni/archive/refs/heads/master.zip).
+Você pode [acessar o código fonte do projeto](https://github.com/luancortezdev/aluroni), [baixá-lo](https://github.com/luancortezdev/aluroni/archive/refs/heads/master.zip) ou ver diretamente no seu navegador [clicando aqui](https://aluroni-deploy.vercel.app/)
 
 ## Abrir e rodar o projeto
 
